@@ -1,0 +1,36 @@
+---
+title: "Assignment template"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Instructions
+
+- Write instructions here
+
+<br>
+
+## Exercise 1
+
+<br>
+
+#### 1.1
+
+```{r, echo = T}
+## Write your code here
+```
+
+<br>
+
+## Exercise 2
+
+<br>
+
+#### 2.1
+
+```{r, echo = T}
+## Write your code here
+```
