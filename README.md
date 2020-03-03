@@ -4,7 +4,7 @@ This is a template repository for students in NTRES 6940. Through GitHub Classrr
 
 #### Student: 
 
-Please indicate if you are *taking this class for credit* or *auditing*: 
+Please indicate if you are **taking this class for credit** or **auditing**: 
 
 #### Instructors:
 
