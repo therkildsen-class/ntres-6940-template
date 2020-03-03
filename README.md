@@ -1,6 +1,6 @@
 # ntres-6940-template
 
-This is a template repository for students in NTRES 6940. Through GitHub Classrrom, each student will create a repository from this template that is only accessible to the student and class instructors. Students will then use the resulting repository to submit their weekly assignments. This repository can also be where students keep their class notes and exercises in one place. 
+This is a template repository for students in NTRES 6940. Through GitHub Classrrom, each student will create a repository from this template that is only accessible to the student and class instructors. Students will then use the resulting repository to submit their weekly assignments. Students can also choose to keep their class notes and exercises in this repository. 
 
 #### Student: 
 
