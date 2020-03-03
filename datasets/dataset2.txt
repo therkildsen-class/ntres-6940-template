@@ -1,3 +1,0 @@
-apple,1,2.9
-orange,2,4.9
-durian,10,19.9
